@@ -3,6 +3,17 @@
   <img width="1640" height="656" alt="Light Coder Cover HTML to MongoDB" src="https://github.com/user-attachments/assets/1338ea97-6a2d-4376-860b-9d6f58dc932b" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Tonmoy+Roy;a+Front-End+Web+Developer;Thanks+for+visiting+my+profile!&center=true&width=1000&height=120&size=50&color=8A2BE2&font=Fira+Code">
+</p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋;I'm+Your+Name;Full+Stack+Developer&center=true&width=900&height=120&size=50&color=8A2BE2">
+</p> -->
+
+---
+
 
 <div align="center">
   <table border="1">
@@ -21,7 +32,7 @@
 
 ---
 
-<h3 align="left">📊 Coding Activity:</h3>
+<!-- <h3 align="left">📊 Coding Activity:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tonmoytr&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoytr&theme=tokyonight" alt="GitHub Streak" height="150" />
@@ -29,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoytr&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
@@ -49,13 +60,10 @@
   </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonmoytr&show_icons=true&theme=radical" alt="Tonmoy's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoytr&theme=radical" alt="GitHub Streak" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoytr&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tonmoytr&show_icons=true&theme=radical" height="150"/> -->
+  <img src="https://streak-stats.demolab.com?user=tonmoytr&theme=radical" height="150"/>
 </p>
 
 ---
