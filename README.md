@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Tonmoy+Roy;a+Front-End+Web+Developer;Thanks+for+visiting+my+profile!&center=true&width=1000&height=120&size=50&color=8A2BE2&font=Fira+Code">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Tonmoy+Roy;a+Full+Stack+Web+Developer;Thanks+for+visiting+my+profile!&center=true&width=1000&height=120&size=50&color=8A2BE2&font=Fira+Code">
 </p>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋;I'm+Your+Name;Full+Stack+Developer&center=true&width=900&height=120&size=50&color=8A2BE2">
@@ -46,7 +46,7 @@
 
 ### 🔭 Current Focus
 - 🔭 I’m currently working on **Book Vibe**
-- 🌱 I’m currently learning **React.js, Express.js, Node.js, and Next.js**
+- 🌱 I'm currently mastering **scalable system architecture, advanced Next.js server optimization patterns, and secure backend microservices**.
 - 💬 Ask me about **ReactJs, NextJs**
 - ⚡ Fun fact **When I'm coding, I feel like time flies;**
 
@@ -60,8 +60,12 @@
   </p>
 
 ### 📊 GitHub Stats
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tonmoytr&show_icons=true&theme=tokyonight&count_private=true" alt="Tonmoy's GitHub Stats" height="180" />
+</p> -->
+
+<p align="left">
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=tonmoytr&show_icons=true&theme=tokyonight&count_private=true" alt="Tonmoy's GitHub Stats" height="180" />
 </p>
 
 <!-- <p align="center">
@@ -72,10 +76,8 @@
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/tr-tonmoy-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tr-tonmoy-roy" height="30" width="40" /></a>
-<a href="https://fb.com/tonmoy.roy.jeet.2025/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tonmoy.roy.jeet.2025/" height="30" width="40" /></a>
-</p>
 
-- 👨‍💻 Projects: [https://github.com/tonmoytr](https://github.com/tonmoytr)
-- 📫 Email: **tonmoytr0110@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tr-tonmoy-roy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tonmoytrdev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonmoytr0110@gmail.com)
+
