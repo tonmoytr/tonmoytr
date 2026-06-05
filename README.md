@@ -60,11 +60,14 @@
   </p>
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tonmoytr&show_icons=true&theme=radical" height="150"/> -->
-  <img src="https://streak-stats.demolab.com?user=tonmoytr&theme=radical" height="150"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonmoytr&show_icons=true&theme=tokyonight&count_private=true" alt="Tonmoy's GitHub Stats" height="180" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonmoytr&show_icons=true&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=tonmoytr&theme=radical" height="150"/>
+</p> -->
 
 ---
 
