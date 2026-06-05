@@ -59,6 +59,14 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   </p>
 
+  ### 📊 Core Technical Competencies
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Frameworks & Runtimes** | React 19, Next.js (App Router), Node.js, Express.js |
+| **Languages & Database** | JavaScript (ES6+), HTML5, Tailwind CSS, MongoDB |
+| **Authentication & Core** | Better-Auth, Jose-JWKS, Git/GitHub, Vercel |
+
 ### 📊 GitHub Stats
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tonmoytr&show_icons=true&theme=tokyonight&count_private=true" alt="Tonmoy's GitHub Stats" height="180" />
